@@ -12,5 +12,5 @@ who,"Descrição da pessoa (homem, mulher, criança)",qualitativa,nominal
 adult_male,Indica se é um homem adulto (Verdadeiro/Falso),qualitativa,nominal
 deck,Deck do passageiro,qualitativa,nominal
 embark_town,Cidade de embarque,qualitativa,nominal
-alive,Indica se o passageiro sobreviveu sim ou não,qualitativa,nominal
+alive,Indica se o passageiro sobreviveu (sim ou não),qualitativa,nominal
 alone,Indica se o passageiro estava sozinho (Verdadeiro/Falso),qualitativa,nominal
