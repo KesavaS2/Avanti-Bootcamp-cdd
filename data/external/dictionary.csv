@@ -1,5 +1,5 @@
 variavel,descrição,tipo,subtipo
-survived,Indica se o passageiro sobreviveu (1) ou não (0),qualitativa,nominal
+survived,Indica se o passageiro sobreviveu (sim = 1 ou não = 0),qualitativa,nominal
 pclass,"Classe do ticket do passageiro (1 = 1ª, 2 = 2ª, 3 = 3ª)",qualitativa,ordinal
 sex,Sexo do passageiro,qualitativa,nominal
 age,Idade do passageiro,quantitativa,contínua
