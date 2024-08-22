@@ -19,9 +19,9 @@
  - [Criação do Dicionário de Dados](https://github.com/KesavaS2/avanti-bootcamp-cdd/blob/master/notebooks/00download_data.ipynb)
  - [Análise Exploratória](https://github.com/KesavaS2/avanti-bootcamp-cdd/blob/master/notebooks/01-exploratory_data_analysis.ipynb)
  - [Análise Comparativa de Modelos](https://github.com/KesavaS2/avanti-bootcamp-cdd/blob/master/notebooks/02-comparative_analysis.ipynb)
-    - [Limpeza de dados]
-    - [Transformação de Dados]
-    - [Modelagem Preditiva]
+    - Limpeza de dados
+    - Transformação de Dados
+    - Modelagem Preditiva
 
 
 ## Desenvolvedor (a)
