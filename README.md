@@ -1,12 +1,13 @@
 # Atividades realizadas do Bootcamp em Ciências de Dados do Atlântico Avanti
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Seaborn Badge](https://img.shields.io/badge/seaborn-%2300A2C1.svg?style=for-the-badge&logo=seaborn&color=444876&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Seaborn](https://img.shields.io/badge/seaborn-%2300A2C1.svg?style=for-the-badge&logo=seaborn&color=444876&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)!![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)!![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)!![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
 
 
 ![GitHub](https://img.shields.io/github/license/atlantico-academy/equipe1-2024.2.svg) [![PyPI](https://img.shields.io/pypi/v/atlantico-academy-equipe2-2024.1.svg)](http://pypi.org/project/atlantico-academy-equipe2-2024.1/) [![GitHub last commit](https://img.shields.io/github/last-commit/atlantico-academy/equipe1-2024.2.svg)](https://github.com/atlantico-academy/equipe1-2024.2/commit/developer)
 
 
-<p align="justify">Este repositório reúne todos os materiais e códigos do Bootcamp em Ciência de Dados do <a href="https://www.atlanticoavanti.com.br/bootcamp">Atlantic Avanti</a>, incluindo as atividades e o projeto individual feitos durante o curso. Ele serve como um recurso útil para revisar os conceitos e práticas aprendidos.</p>
+<p align="justify">Este repositório reúne todos os materiais e códigos do Bootcamp em Ciência de Dados do <a href="https://www.atlanticoavanti.com.br/bootcamp">Atlântico Avanti</a>, incluindo as atividades e o projeto individual feitos durante o curso. Ele serve como um recurso útil para revisar os conceitos e práticas aprendidos.</p>
 
 
 ## Banco de dados
@@ -24,7 +25,7 @@
     - Modelagem Preditiva
 
 
-## Desenvolvedor (a)
+## Desenvolvedora
 
  - [Kesava Menezes](https://github.com/KesavaS2)
  
