@@ -12,7 +12,7 @@
 
 ## Banco de dados
 
-<p align="justify">O conjunto de dados <a href="https://www.kaggle.com/c/titanic/data">Titanic</a> foi retirado da plataforma <a href="https://www.kaggle.com/c/titanic/data">Kaggle</a>, embora também esteja disponível em outras fontes. Amplamente utilizado para análises e projetos de aprendizado de máquina, ele fornece informações detalhadas sobre os passageiros do RMS Titanic, que afundou em 15 de abril de 1912 após colidir com um iceberg, resultando na perda de muitas vidas. O dataset inclui dados sobre embarque e sobrevivência dos passageiros, permitindo realizar análises e previsões sobre o evento. A variável principal é <b>"Survived"<b> e as variáveis usadas para prever são: <b>Pclass<b>, <b>Sex<b>, <b>Age<b>, <b>SibSp<b>, <b>Parch<b>, <b>Fare<b>, <b>Embarked<b>, <b>Class<b>, <b>Who<b>, <b>Adult_male<b>, <b>Deck<b>, <b>Embark_town<b>, <b>Alive<b> e <b>Alone<b>.</p>
+<p align="justify">O conjunto de dados <a href="https://www.kaggle.com/c/titanic/data">Titanic</a> foi retirado da plataforma <a href="https://www.kaggle.com/c/titanic/data">Kaggle</a>, embora também esteja disponível em outras fontes. Amplamente utilizado para análises e projetos de aprendizado de máquina, ele fornece informações detalhadas sobre os passageiros do RMS Titanic, que afundou em 15 de abril de 1912 após colidir com um iceberg, resultando na perda de muitas vidas. O dataset inclui dados sobre embarque e sobrevivência dos passageiros, permitindo realizar análises e previsões sobre o evento. A variável principal é "Survived" e as variáveis usadas para prever são: Pclass, Sex, Age, SibSp, Parch, Fare, Embarked, Class, Who, Adult_male, Deck, Embark_town, Alive e Alone.</p>
 
 ## Principais Atividade Realiazadas
 
@@ -24,6 +24,10 @@
     - Transformação de Dados
     - Modelagem Preditiva
 
+## Resumo Gráfico
+<div align="center">
+<img src="https://github.com/KesavaS2/avanti-bootcamp-cdd/blob/master/references/Graphic%20Abstrac.png" alt="Resumo Gráfico">
+</div>
 
 ## Desenvolvedora
 
